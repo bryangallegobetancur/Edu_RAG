@@ -1,0 +1,11 @@
+Garantía de Productos Electrónicos Acme
+
+Todos los productos electrónicos vendidos por Acme incluyen una garantía de 12 meses contra defectos de fabricación, contados desde la fecha de compra. La garantía cubre reparaciones gratuitas o, si el producto no puede repararse, su reemplazo por uno equivalente.
+
+La garantía NO cubre daños causados por mal uso, caídas, líquidos derramados, modificaciones por terceros, o uso contrario al manual del usuario. Tampoco cubre el desgaste normal de piezas como baterías, salvo que el defecto se presente en los primeros 6 meses.
+
+Para hacer efectiva la garantía, el cliente debe presentar el comprobante de compra (factura o ticket) y describir el defecto. Acme cubre los gastos de envío del producto al servicio técnico, y el cliente cubre el retorno desde el servicio técnico si el diagnóstico determina que no aplica garantía.
+
+El tiempo promedio de reparación es de 15 a 20 días hábiles. Si la reparación supera los 30 días hábiles, Acme ofrece un producto de reemplazo temporal sin costo mientras se repara el original.
+
+Los productos reacondicionados tienen una garantía reducida de 6 meses y se identifican con la etiqueta "Refurbished" en el embalaje y en la factura.

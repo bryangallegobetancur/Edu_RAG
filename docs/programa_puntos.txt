@@ -1,0 +1,11 @@
+Programa de Fidelización Acme Puntos
+
+Acme Puntos es el programa de fidelización de la tienda Acme. Por cada compra, el cliente acumula 1 punto por cada dólar gastado (o su equivalente en moneda local). Los puntos se acreditan en la cuenta del cliente 24 horas después de confirmarse la entrega del pedido.
+
+Los puntos pueden canjearse por descuentos en compras futuras: 100 puntos equivalen a 1 dólar de descuento. El canje mínimo es de 500 puntos por transacción, y el descuento máximo aplicable es del 30% del valor del carrito.
+
+Los clientes que acumulan más de 5.000 puntos en un año entran automáticamente al nivel Silver, que ofrece 1.5 puntos por dólar, envío gratis en pedidos superiores a 50 dólares, y acceso a ventas anticipadas. El nivel Gold se alcanza a los 15.000 puntos anuales e incluye 2 puntos por dólar, soporte prioritario y un regalo de cumpleaños.
+
+Los puntos expiran a los 18 meses sin actividad en la cuenta. Cualquier compra, canje o interacción con la app reinicia el contador de expiración.
+
+Si un cliente devuelve un producto, los puntos asociados a esa compra se restan de su saldo. Si el saldo queda en negativo por canjeos posteriores, el cliente debe acumular puntos nuevamente antes de poder canjear.

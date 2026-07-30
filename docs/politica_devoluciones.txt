@@ -1,0 +1,11 @@
+Política de Devoluciones de la Tienda Acme
+
+La tienda Acme acepta devoluciones de productos dentro de los 30 días siguientes a la fecha de compra. Para que una devolución sea aceptada, el producto debe estar en su estado original, sin usar y con todas las etiquetas y embalaje original.
+
+Si el producto llegó dañado o defectuoso, el cliente no necesita pagar los gastos de envío de la devolución. En ese caso, Acme reembolsa tanto el precio del producto como los gastos de envío originales en un plazo de 5 a 7 días hábiles tras recibir el producto devuelto.
+
+Para devoluciones por cambio de opinión (el producto no está defectuoso), el cliente asume los gastos de envío de la devolución. El reembolso se procesa en 10 a 14 días hábiles y se realiza al mismo método de pago utilizado en la compra original.
+
+Los productos en oferta o liquidación no son elegibles para devolución, salvo que lleguen defectuosos. En ese caso se aplica la política normal para productos dañados.
+
+Para iniciar una devolución, el cliente debe contactar a soporte@acme.com con el número de pedido y una foto del producto. El equipo de soporte responderá en un plazo de 24 a 48 horas con las instrucciones de envío.

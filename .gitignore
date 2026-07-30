@@ -1,0 +1,43 @@
+# Entorno y secretos
+.env
+.env.local
+.env.*.local
+
+# Base vectorial ChromaDB
+chroma_db/
+*.duckdb
+*.sqlite3
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vite / Node
+.vite/
+node_modules/
+dist/
+
+# Documentos temporales o privados
+docs/_temp/
